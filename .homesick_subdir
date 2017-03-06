@@ -1,1 +1,3 @@
+# note to future self - if/when you customize plugins as well, change this line to:
+# .oh-my-zsh/custom
 .oh-my-zsh/custom/themes
