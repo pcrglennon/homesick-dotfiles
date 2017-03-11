@@ -5,8 +5,8 @@ Dotfiles, for use with [homesick](https://github.com/technicalpickles/homesick)
 * git (duh)
 * oh-my-zsh
 * RVM, Ruby
-* nvim (probably? not yet fully tested)
+* vim
 
-### TODO
+#### .zshrc.local
 
-* nvim config & plugins
+`.zshrc` will try to source this file if it exists. It's useful for things (like NVM) I may want to set up on one machine, but not all.
