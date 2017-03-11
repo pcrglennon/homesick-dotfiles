@@ -56,3 +56,7 @@ plugins=(autojump docker git git-extras sublime)
 zstyle ':completion:*' special-dirs true
 
 source $ZSH/oh-my-zsh.sh
+
+if [[ -a ~/.zshrc.local ]]; then
+  source ~/.zshrc.local
+fi
