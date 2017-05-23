@@ -52,11 +52,6 @@ Plugin 'bling/vim-airline'
 Plugin 'tpope/vim-fugitive'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'ntpeters/vim-better-whitespace'
-Plugin 'scrooloose/nerdcommenter'
-Plugin 'SirVer/ultisnips'
-Plugin 'honza/vim-snippets'
-Plugin 'Trevoke/ultisnips-rspec'
-Plugin 'ervandew/supertab'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
