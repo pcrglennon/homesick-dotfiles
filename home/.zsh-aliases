@@ -1,0 +1,3 @@
+# Rails aliases
+alias rails_db_status='rake db:migrate:status'
+alias rails_db_migrate='rake db:migrate db:test:prepare'
