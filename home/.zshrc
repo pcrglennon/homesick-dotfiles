@@ -57,6 +57,8 @@ zstyle ':completion:*' special-dirs true
 
 source $ZSH/oh-my-zsh.sh
 
+source ~/.zsh-aliases
+
 if [[ -a ~/.zshrc.local ]]; then
   source ~/.zshrc.local
 fi
