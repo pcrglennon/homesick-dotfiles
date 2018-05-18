@@ -62,3 +62,5 @@ source ~/.zsh-aliases
 if [[ -a ~/.zshrc.local ]]; then
   source ~/.zshrc.local
 fi
+
+bindkey "^U" backward-kill-line
